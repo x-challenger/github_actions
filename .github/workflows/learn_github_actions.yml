@@ -14,5 +14,5 @@ jobs:
             - run: |
                 bats -v
                 bats -v
-                bats
+                bats -h
 
